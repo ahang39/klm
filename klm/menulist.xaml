@@ -1,0 +1,16 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:klm" x:Class="klm.menulist" 
+             mc:Ignorable="d" 
+             d:DesignHeight="33" Width="230">
+    <Grid>
+        <StackPanel x:Name="sp" Height="33" Width="230" Orientation="Horizontal" HorizontalAlignment="Left" >
+            <Label x:Name="name" Content="空白-blank" Width="81" Margin="0,2,0,-0.2" FontSize="14" Background="{x:Null}" Foreground="Black"/>
+            <Label x:Name="price" Content="price" Width="49" Margin="0,2,0,-0.2" FontSize="14" Foreground="Black" Background="{x:Null}"/>
+            <local:counters x:Name="counters" Margin="20,8,0,8.8" Height="16"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

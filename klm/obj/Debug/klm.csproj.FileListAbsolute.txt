@@ -1,0 +1,102 @@
+d:\ahang\documents\visual studio 2013\Projects\klm\klm\bin\Debug\klm.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.g.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\welcome.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\welcome.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\mainwindow.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\mainwindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\login.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\login.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.application
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.application
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\image_edit.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\image_edit.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\register.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\register.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.exe
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.pdb
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.exe.manifest
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.application
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.exe
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\bin\Debug\klm.pdb
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.csprojResolveAssemblyReference.cache
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\image_edit.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\welcome.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\mainwindow.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\login.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\register.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\image_edit.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\welcome.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\mainwindow.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\login.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\register.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\App.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm_MarkupCompile.cache
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.g.resources
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.Properties.Resources.resources
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.csproj.GenerateResource.Cache
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.exe.manifest
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm.application
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\counters.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\counters.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\menulist.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm_MarkupCompile.lref
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\menulist.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\orders.baml
+D:\ahang\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\orders.g.cs
+F:\klm\klm\bin\Debug\klm.exe.config
+F:\klm\klm\obj\Debug\klm.exe
+F:\klm\klm\obj\Debug\klm.pdb
+F:\klm\klm\bin\Debug\klm.exe.manifest
+F:\klm\klm\bin\Debug\klm.application
+F:\klm\klm\bin\Debug\klm.exe
+F:\klm\klm\bin\Debug\klm.pdb
+F:\klm\klm\obj\Debug\klm.csprojResolveAssemblyReference.cache
+F:\klm\klm\obj\Debug\counters.baml
+F:\klm\klm\obj\Debug\image_edit.baml
+F:\klm\klm\obj\Debug\orders.baml
+F:\klm\klm\obj\Debug\welcome.baml
+F:\klm\klm\obj\Debug\mainwindow.baml
+F:\klm\klm\obj\Debug\login.baml
+F:\klm\klm\obj\Debug\register.baml
+F:\klm\klm\obj\Debug\counters.g.cs
+F:\klm\klm\obj\Debug\image_edit.g.cs
+F:\klm\klm\obj\Debug\menulist.g.cs
+F:\klm\klm\obj\Debug\orders.g.cs
+F:\klm\klm\obj\Debug\welcome.g.cs
+F:\klm\klm\obj\Debug\mainwindow.g.cs
+F:\klm\klm\obj\Debug\login.g.cs
+F:\klm\klm\obj\Debug\register.g.cs
+F:\klm\klm\obj\Debug\App.g.cs
+F:\klm\klm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\klm\klm\obj\Debug\klm_MarkupCompile.cache
+F:\klm\klm\obj\Debug\klm_MarkupCompile.lref
+F:\klm\klm\obj\Debug\menulist.baml
+F:\klm\klm\obj\Debug\klm.g.resources
+F:\klm\klm\obj\Debug\klm.Properties.Resources.resources
+F:\klm\klm\obj\Debug\klm.csproj.GenerateResource.Cache
+F:\klm\klm\obj\Debug\klm.exe.manifest
+F:\klm\klm\obj\Debug\klm.application
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\counters.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\orders.baml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\counters.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\menulist.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\orders.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\klm_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2013\Projects\klm\klm\obj\Debug\menulist.baml
+C:\Users\ahang\Documents\Visual Studio 2015\Projects\klm\klm\bin\Debug\klm.exe.config
+C:\Users\ahang\Documents\Visual Studio 2015\Projects\klm\klm\obj\Debug\klm.exe
+C:\Users\ahang\Documents\Visual Studio 2015\Projects\klm\klm\obj\Debug\klm.pdb

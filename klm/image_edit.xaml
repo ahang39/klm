@@ -1,0 +1,36 @@
+﻿<Window x:Class="klm.image_edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="image_edit" Height="600" Width="1000" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" Icon="image/icon/ic.png">
+    <Grid Background="#FF48577E">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="550*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="404*"/>
+        </Grid.ColumnDefinitions>
+        <Button Height="50" Width="70"  Click="Button_Click" VerticalAlignment="Center" Content="裁剪图像" Margin="461,180,18.5,260" Background="#FFDEDEDE" BorderBrush="{x:Null}" Foreground="#FF48577E" FontSize="16" FontWeight="Bold"/>
+        <Button Height="30" Width="50"   VerticalAlignment="Center" Content="取消" Margin="461,300,18.5,260" Background="#FFDEDEDE" BorderBrush="{x:Null}" Foreground="#FF48577E" FontSize="14" Click="Button_Click_1"/>
+        <Grid Height="500" Width="400" HorizontalAlignment="Left" Background="#FFA8A8A8" Margin="40,35,0,35">
+
+            <Image Height="400" Width="400" Name="im" HorizontalAlignment="Center"/>
+            <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="25"  Name="im_text" Foreground="#FF48577E"/>
+        </Grid>
+        <Grid Height="500" Width="400" HorizontalAlignment="Right" Background="#FFA8A8A8" Margin="0,35,40,35" Grid.ColumnSpan="2" Grid.Column="1">
+            <Image Height="400" Width="400" Name="tr_im" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <Slider VerticalAlignment="Center" Name="loc" Minimum="0" ValueChanged="loc_ValueChanged" Margin="50,360,13,120" Background="{x:Null}" HorizontalAlignment="Center" Width="337" Height="20" RenderTransformOrigin="0.5,0.5">
+                <Slider.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Slider.RenderTransform>
+            </Slider>
+            <Slider VerticalAlignment="Bottom" Name="sc" Margin="66,0,101,34" Minimum="1"  Value="1" ValueChanged="sc_ValueChanged" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Height="18"/>
+            <Slider VerticalAlignment="Bottom" Name="loc_y" Minimum="0" ValueChanged="loc_y_ValueChanged" Margin="10,0,370,141" Background="{x:Null}" Height="345" Orientation="Vertical"/>
+            <Label Content="比例" HorizontalAlignment="Left" Margin="10,442,0,0" VerticalAlignment="Top" Height="46" Foreground="#FF48577E" FontSize="18" Width="56" FontWeight="Bold"/>
+
+        </Grid>
+    </Grid>
+</Window>
